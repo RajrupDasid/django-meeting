@@ -8,13 +8,13 @@ Some Snap Shots to represent that
 
 first page
 
-![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/secondpage.png?raw=true)                                         
+![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/images/secondpage.png?raw=true)                                         
 
 second page
 
-![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/thirdpage.png?raw=true)                                         
+![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/images/thirdpage.png?raw=true)                                         
 
 third page
 
-![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/fourthpage.png?raw=true)                                         
+![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/images/fourthpage.png?raw=true)                                         
 fourth page
