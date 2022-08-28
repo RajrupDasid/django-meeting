@@ -4,17 +4,17 @@ the API is demo but still effective.
 
 Some Snap Shots to represent that
 
-![Page1](django-meeting/images/firstpage.png?raw=true "snap of -page1")
+![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/firstpage.png?raw=true)
 
 first page
 
-![Page2](django-meeting/images/secondpage.png?raw=true "snap of -page2")
+![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/secondpage.png?raw=true)                                         
 
 second page
 
-![Page3](django-meeting/images/thirdpage.png?raw=true "snap of -page3")
+![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/thirdpage.png?raw=true)                                         
 
 third page
 
-![Page4](django-meeting/images/fourthpage.png?raw=true "snap of -page4")
+![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/fourthpage.png?raw=true)                                         
 fourth page
