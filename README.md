@@ -4,7 +4,7 @@ the API is demo but still effective.
 
 Some Snap Shots to represent that
 
-![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/firstpage.png?raw=true)
+![alt Text](https://github.com/RajrupDasid/django-meeting/blob/master/images/firstpage.png?raw=true)
 
 first page
 
